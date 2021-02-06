@@ -17,11 +17,9 @@ toc::[]
 
 https://miro.com/app/board/o9J_lV31ycs=/[Miro board]
 
-[Show picture,window="_blank"]
-
 ifdef::env-github[]
 ++++
-<a  href="https://github.com/mwwojcik/mw-domainexplorers/blob/master/domain/img/domaiexplorers-es-bigpicture-1.jpg">Show picture</a>
+<a  href="https://github.com/mwwojcik/mw-domainexplorers/blob/master/domain/img/domaiexplorers-es-bigpicture-1.jpg" target="_blank">Show picture</a>
 ++++
 endif::env-github[]
 
