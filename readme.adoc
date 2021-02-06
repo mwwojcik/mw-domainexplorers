@@ -18,7 +18,7 @@ toc::[]
 
 https://miro.com/app/board/o9J_lV31ycs=/[Miro board]
 
-link:domain/img/domaiexplorers-es-bigpicture-1.jpg [Show picture,window=\"_blank\"]
+link:domain/img/domaiexplorers-es-bigpicture-1.jpg[Show picture,window=\"_blank\"]
 
 image::domain/img/domaiexplorers-es-bigpicture-1.jpg[]
 
