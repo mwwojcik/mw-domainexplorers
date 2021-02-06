@@ -1,0 +1,23 @@
+:toc
+
+= Intro
+//TBD
+
+
+= Domain Description
+* https://explorers.bettersoftwaredesign.pl/[Project homepage]
+* https://explorers.bettersoftwaredesign.pl/repositories.html[Repositories]
+
+= Domain Exploration
+
+== Big Picture
+
+https://miro.com/app/board/o9J_lV31ycs=/[Miro board]
+
+<a href="https://raw.githubusercontent.com/mwwojcik/airline-reservation-system/master/img/ars-big-picture-subdomains-bc-poster.jpg" target="_blank">Show picture
+</a>
+
+link:domain/img/domaiexplorers-es-bigpicture-1.jpg[Show picture,role=resource,window=_blank]
+
+image::domain/img/domaiexplorers-es-bigpicture-1.jpg[]
+
