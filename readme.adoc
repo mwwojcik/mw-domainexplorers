@@ -4,12 +4,12 @@
 toc::[]
 
 = Intro
-//TBD
 
-
-= Domain Description
 * https://explorers.bettersoftwaredesign.pl/[Project homepage]
 * https://explorers.bettersoftwaredesign.pl/repositories.html[Repositories]
+
+= Domain Description
+//TBD
 
 = Domain Exploration
 
@@ -18,6 +18,12 @@ toc::[]
 https://miro.com/app/board/o9J_lV31ycs=/[Miro board]
 
 https://github.com/mwwojcik/mw-domainexplorers/blob/master/domain/img/domaiexplorers-es-bigpicture-1.jpg[Show picture,window="_blank"]
+
+ifdef::env-github[]
+++++
+<a name="ordered"></a>
+++++
+endif::env-github[]
 
 image::domain/img/domaiexplorers-es-bigpicture-1.jpg[]
 
