@@ -14,5 +14,7 @@
 
 https://miro.com/app/board/o9J_lV31ycs=/[Miro board]
 
-image::domain/img/domaiexplorers-es-bigpicture-1.jpg[]
+link:domain/img/domaiexplorers-es-bigpicture-1.jpg[Open in new window,window=_blank]
+
+image::domain/img/domaiexplorers-es-bigpicture-1.jpg[200,100]
 
