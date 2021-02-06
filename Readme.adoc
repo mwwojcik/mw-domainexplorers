@@ -3,8 +3,16 @@
 = Intro
 //TBD
 
+
 = Domain Description
-https://explorers.bettersoftwaredesign.pl/
+* https://explorers.bettersoftwaredesign.pl/[Project homepage]
+* https://explorers.bettersoftwaredesign.pl/repositories.html[Repositories]
 
 = Domain Exploration
+
 == Big Picture
+
+https://miro.com/app/board/o9J_lV31ycs=/[Miro board]
+
+image::domain/img/domaiexplorers-es-bigpicture-1.jpg[]
+
