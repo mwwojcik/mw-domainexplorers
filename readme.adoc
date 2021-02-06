@@ -1,4 +1,7 @@
-:toc
+:toc:
+:toc-placement!:
+
+toc::[]
 
 = Intro
 //TBD
