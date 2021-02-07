@@ -13,18 +13,16 @@ Its main purpose is to learn some aspects Domain Drive Design.
 
 * https://explorers.bettersoftwaredesign.pl/repositories.html[Repositories]
 
+
+
+= Domain exploration method - Event Storming
+
 |===
 |Domain Driven Design - this is an attempt to understand the language and implement it in code .
 
 |
  _nice, isn't it ?_
 |===
-
-= Domain Description
-
-A detailed domain description can be found in the video materials on https://explorers.bettersoftwaredesign.pl/[the main page of the project].
-
-= Domain exploration method - Event Storming Intro
 
 Domain analysis is the most important part of software development. It is a time of intense learning. Developers need to understand the language of future system users.
 
@@ -42,9 +40,15 @@ It is based on the assumption that  in an effective creative process (focused on
 
 * *Convergent Thinking* - The best options are selected. They are refined.
 
-
-
 Based on : https://www.charlesleon.uk/blog/3-thinking-modes-of-creative-thinking-divergent-emergent-and-convergent-thinking24112019[Divergent, Emergent, and Convergent Thinking - 3 Thinking Modes]
+
+= Domain exploration
+
+
+== Domain Description
+
+A detailed domain description can be found in the video materials on https://explorers.bettersoftwaredesign.pl/[the main page of the project].
+
 
 == Event Storming - Big Picture Phase
 
