@@ -26,6 +26,16 @@ A detailed domain description can be found in the video materials on https://exp
 
 = Domain Exploration
 
+Domain analysis is the most important part of software development. It is a time of intense learning. Developers need to understand the language of future system users.
+
+Selection of the most appropriate method of domain exploration has a major impact on the success of the project.
+
+In recent years, the Event Storming technique has become extremely popular.
+
+It was described by Alberto Brandolini in his book https://leanpub.com/introducing_eventstorming[Introducing EventStorming].
+
+Based on: https://www.charlesleon.uk/blog/3-thinking-modes-of-creative-thinking-divergent-emergent-and-convergent-thinking24112019[Divergent, Emergent, and Convergent Thinking - 3 Thinking Modes]
+
 == Big Picture
 
 The main goal of Big Picture Event Storming is to discover and model the main processes taking place in the domain.
