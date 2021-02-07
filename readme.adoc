@@ -7,7 +7,7 @@ toc::[]
 = Intro
 
 
-The project is an attempt to describe the parcel distribution domain using parcel machines.
+The project is an attempt to discover,model and implement the parcel distribution processes (by using parcel machines).
 
 Its main purpose is to learn some aspects Domain Drive Design.
 
@@ -22,8 +22,7 @@ Its main purpose is to learn some aspects Domain Drive Design.
 
 = Domain Description
 
-A detailed description of the domain can be found in the video materials on https://explorers.bettersoftwaredesign.pl/[the main page of the project].
-
+A detailed domain description can be found in the video materials on https://explorers.bettersoftwaredesign.pl/[the main page of the project].
 
 = Domain Exploration
 
