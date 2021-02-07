@@ -7,9 +7,6 @@ toc::[]
 = Intro
 
 
-
-
-
 The project is an attempt to describe the parcel distribution domain using parcel machines.
 
 Its main purpose is to learn some aspects Domain Drive Design.
@@ -17,19 +14,23 @@ Its main purpose is to learn some aspects Domain Drive Design.
 * https://explorers.bettersoftwaredesign.pl/repositories.html[Repositories]
 
 |===
-|Domain Driven Design
+|Domain Driven Design - this is an attempt to understand the language and implement it in code .
 
-|This is an attempt to understand the language and implement it in code
-
+|
+ _nice, isn't it ?_
 |===
 
 = Domain Description
 
-* https://explorers.bettersoftwaredesign.pl/[Project homepage]
+A detailed description of the domain can be found in the video materials on https://explorers.bettersoftwaredesign.pl/[the main page of the project].
+
 
 = Domain Exploration
 
 == Big Picture
+
+The main goal of Big Picture Event Storming is to discover and model the main processes taking place in the domain.
+Problem should be divide into smaller business parts, that can be analyzed independently.
 
 https://miro.com/app/board/o9J_lV31ycs=/[Miro board]
 
