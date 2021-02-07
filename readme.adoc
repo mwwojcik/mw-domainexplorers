@@ -36,11 +36,11 @@ It was described by Alberto Brandolini in his book https://leanpub.com/introduci
 
 It is based on the assumption that  in an effective creative process (focused on problem solving) there are three main phases:
 
-* *Divergent Thinking*
+* *Divergent Thinking* - The phase of creative generation of ideas and scenarios. All ideas are of equal value.  We look for possibilities, we don't know which will turn out to be the best. We do not optimise anything.
 
-* *Emergent Thinking*
+* *Emergent Thinking* - Pre-order phase. Some ideas turn out to be better than others. New possibilities emerge. Some optimisations can be made.
 
-* *Convergent Thinking*
+* *Convergent Thinking* - The best options are selected. They are refined.
 
 
 
