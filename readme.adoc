@@ -34,9 +34,19 @@ In recent years, the Event Storming technique has become extremely popular.
 
 It was described by Alberto Brandolini in his book https://leanpub.com/introducing_eventstorming[Introducing EventStorming].
 
-Based on: https://www.charlesleon.uk/blog/3-thinking-modes-of-creative-thinking-divergent-emergent-and-convergent-thinking24112019[Divergent, Emergent, and Convergent Thinking - 3 Thinking Modes]
+It is based on the assumption that  in an effective creative process (focused on problem solving) there are three main phases:
 
-== Big Picture
+* *Divergent Thinking*
+
+* *Emergent Thinking*
+
+* *Convergent Thinking*
+
+
+
+Based on : https://www.charlesleon.uk/blog/3-thinking-modes-of-creative-thinking-divergent-emergent-and-convergent-thinking24112019[Divergent, Emergent, and Convergent Thinking - 3 Thinking Modes]
+
+== Event Storming - Big Picture Phase
 
 The main goal of Big Picture Event Storming is to discover and model the main processes taking place in the domain.
 Problem should be divide into smaller business parts, that can be analyzed independently.
