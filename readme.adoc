@@ -6,11 +6,26 @@ toc::[]
 
 = Intro
 
-* https://explorers.bettersoftwaredesign.pl/[Project homepage]
+
+
+
+
+The project is an attempt to describe the parcel distribution domain using parcel machines.
+
+Its main purpose is to learn some aspects Domain Drive Design.
+
 * https://explorers.bettersoftwaredesign.pl/repositories.html[Repositories]
 
+|===
+|Domain Driven Design
+
+|This is an attempt to understand the language and implement it in code
+
+|===
+
 = Domain Description
-//TBD
+
+* https://explorers.bettersoftwaredesign.pl/[Project homepage]
 
 = Domain Exploration
 
