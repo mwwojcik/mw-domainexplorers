@@ -42,6 +42,13 @@ It is based on the assumption that  in an effective creative process (focused on
 
 Based on : https://www.charlesleon.uk/blog/3-thinking-modes-of-creative-thinking-divergent-emergent-and-convergent-thinking24112019[Divergent, Emergent, and Convergent Thinking - 3 Thinking Modes]
 
+
+The course of the subsequent phases of Event Storming Workshop is described in the image below
+
+link:domain/img/EventStormingMetaModel.jpg[Show picture^,window=_blank]
+
+image::domain/img/EventStormingMetaModel.jpg[]
+
 = Domain exploration
 
 
