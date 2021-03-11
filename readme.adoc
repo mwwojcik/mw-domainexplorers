@@ -45,11 +45,13 @@ Based on : https://www.charlesleon.uk/blog/3-thinking-modes-of-creative-thinking
 
 The course of the subsequent phases of Event Storming Workshop is described in the image below
 
-link:domain/img/EventStormingMetaModel.jpg[Show picture^,window=_blank]
+https://miro.com/app/board/o9J_lU4jABw=/[Miro Board]
+
+link:https://raw.githubusercontent.com/mwwojcik/mw-domainexplorers/master/domain/img/EventStormingMetaModel.jpg[Show picture^,window=_blank]
 
 image::domain/img/EventStormingMetaModel.jpg[]
 
-= Domain exploration
+== Domain exploration
 
 
 == Domain Description
@@ -64,7 +66,7 @@ Problem should be divide into smaller business parts, that can be analyzed indep
 
 https://miro.com/app/board/o9J_lV31ycs=/[Miro board]
 
-link:domain/img/domainexplorers-es-bigpicture-1.jpg[Show picture^,window=_blank]
+link:https://raw.githubusercontent.com/mwwojcik/mw-domainexplorers/master/domain/img/domainexplorers-es-bigpicture-1.jpg[Show picture^,window=_blank]
 
 image::domain/img/domainexplorers-es-bigpicture-1.jpg[]
 
